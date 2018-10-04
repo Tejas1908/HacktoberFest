@@ -7,6 +7,4 @@ questions and their answers from a text file.
 * Quiz has to be timed.
 * If the user loses connection with the server, he should be able to connect
     back and have his answers already loaded.
-* The server should be able to handle multiple participants at once. 
-* It should be almost JEE styled.
-* More ideas are welcome!
+
